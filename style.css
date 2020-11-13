@@ -1,0 +1,86 @@
+body{
+  font-family: 'Karla', sans-serif;
+}
+.main{
+  width: 500px;
+  height: 350px;
+  margin: 100px auto;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  padding-left: 0;
+  padding-right: 0;
+  border-radius: 3%;
+}
+.top{
+  height: 150px;
+}
+.price{
+  padding: 5%;
+
+
+
+
+  background-color: #16a596;
+}
+.why{
+  padding: 5%;
+
+
+
+  background-color: #8bcdcd;
+}
+.row{
+  margin-left: 0;
+  margin-right: 0;
+}
+h4{
+  font-size: .80rem;
+  color: hsl(71, 73%, 54%);
+}
+.top{
+  padding: 5%;
+}
+.p{
+  font-size: .75rem;
+  color: #e0e0e0;
+  font-weight: 400;
+}
+h5{
+  color: hsl(179, 62%, 43%);
+  font-weight: 700;
+
+}
+h1{
+  font-size: .85rem;
+  color: #fff;
+  font-weight: 700;
+}
+span{
+  color: #fff;
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+.do{
+  color: #e0e0e0;
+  font-size: .9rem;
+}
+.don{
+  color: hsl(204, 43%, 93%);
+  font-size: .75rem;
+
+}
+.btn{
+  background-color: hsl(71, 73%, 54%);
+  color: #fff;
+  font-weight: bold;
+}
+.p1{
+  font-size: .75rem;
+  font-weight: 400;
+  color: hsl(204, 43%, 93%);
+}
+@media screen and (max-width:420px)  {
+  .main{
+    width: 300px;
+
+  }
+}
