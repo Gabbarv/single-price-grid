@@ -2,8 +2,8 @@ body{
   font-family: 'Karla', sans-serif;
 }
 .main{
-  width: 500px;
-  height: 350px;
+  width: 700px;
+  height: 450px;
   margin: 100px auto;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
   padding-left: 0;
@@ -11,7 +11,7 @@ body{
   border-radius: 3%;
 }
 .top{
-  height: 150px;
+  height: 210px;
 }
 .price{
   padding: 5%;
